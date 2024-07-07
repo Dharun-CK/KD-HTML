@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    margin : 0;
+    padding : 60;
+}
+
+.h1{
+    margin-top: 2em;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 5em;
+    font-weight: 600;
+    align-items: center;
+    text-align: center;
+    text-decoration: aqua;
+    text-rendering: optimizeSpeed;
+}
+
+
+
+
